@@ -1,6 +1,0 @@
-<odoo>
-    <record id="test_excel_file_import" model="product.template.import.wizard">
-        <field name="excel_file" type="base64" file="tech_gear_inventory/static/tests/wesolved_odoo_assign_products_data.xlsx"/>
-        <field name="excel_file_name">wesolved_odoo_assign_products_data.xlsx</field>
-    </record>
-</odoo>
